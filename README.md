@@ -12,7 +12,7 @@ These come at the wake of the recently-released
 which addressed two CVSS v4.0 9.2 vulnerabilities (CVE-2026-109618 and
 CVE-2026-109619). As Raspbian packages are not yet available for 8.5.12
 (nor are they available for 8.2.35, as Raspbian appears to track PHP 8.2),
-these are freshly compiled from the patched sources.
+these are freshly compiled from the patched sources on my own computer.
 
 **INSTALLING PACKAGES FROM A RANDOM PERSON IS A BAD IDEA!**
 
@@ -34,4 +34,4 @@ If you want to build your own PHP packages (i.e. ones for PHP versions you
 care about), make sure to configure the build to use VPFv2, or else you'll
 get SIGILLs trying to run PHP.
 
-# Once official up-to-date PHP packages are available on Raspbian, download packages from there.
+# Once official up-to-date PHP packages are available on [Raspbian](https://www.raspbian.org/) via APT, download packages from there.
