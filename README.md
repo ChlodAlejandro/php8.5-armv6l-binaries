@@ -35,3 +35,4 @@ care about), make sure to configure the build to use VPFv2, or else you'll
 get SIGILLs trying to run PHP.
 
 # Once official up-to-date PHP packages are available on [Raspbian](https://www.raspbian.org/) via APT, download packages from there.
+Follow [this bug](https://bugs.launchpad.net/raspbian/+bug/2171892) on their Launchpad bug tracker for progress.
