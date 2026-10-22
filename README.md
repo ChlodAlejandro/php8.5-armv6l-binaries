@@ -19,7 +19,9 @@ these are freshly compiled from the patched sources on my own computer.
 While I'm making them available here, **these are not official packages!**
 It's very important that you stick to trusted, official packages from
 Raspbian than use some random guy's built `.deb` files. This is only a
-stopgap solution for an existing security hole!
+stopgap solution for an existing security hole! **These are unsigned
+packages and you shouldn't be installing random people's packages on your
+computer!**
 
 **INSTALLING PACKAGES FROM A RANDOM PERSON IS A BAD IDEA!**
 
